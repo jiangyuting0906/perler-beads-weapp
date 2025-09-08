@@ -48,6 +48,12 @@
 			"style": {
 				"navigationBarTitleText": "补豆提醒"
 			}
+		},
+		{
+			"path": "pages/dataAnalysis/index",
+			"style": {
+				"navigationBarTitleText": "dataAnalysis"
+			}
 		}
 	],
 	"globalStyle": {
