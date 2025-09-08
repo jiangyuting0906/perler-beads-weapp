@@ -2,22 +2,22 @@
   <view>
     <view class="page-body">
       <view class="btn-area">
-        <navigator url="../Inventory/index" hover-class="navigator-hover">
+        <navigator url="../inventoryManage/index" hover-class="navigator-hover">
           <button>库存管理</button>
         </navigator>
-        <navigator url="../Supplement/index" hover-class="navigator-hover">
+        <navigator url="../inventoryReplenishment/index" hover-class="navigator-hover">
           <button>库存补充</button>
         </navigator>
-        <navigator url="../Consume/index" hover-class="navigator-hover">
+        <navigator url="../inventoryDepletion/index" hover-class="navigator-hover">
           <button>库存消耗</button>
         </navigator>
-        <navigator url="../DataAnalysis/index" hover-class="navigator-hover">
+        <navigator url="../dataAnalysis/index" hover-class="navigator-hover">
           <button>数据分析</button>
         </navigator>
-        <navigator url="../History/index" hover-class="navigator-hover">
+        <navigator url="../operationHistory/index" hover-class="navigator-hover">
           <button>历史记录</button>
         </navigator>
-        <navigator url="../Remind/index" hover-class="navigator-hover">
+        <navigator url="../messagePush/index" hover-class="navigator-hover">
           <button>补豆提醒</button>
         </navigator>
       </view>
