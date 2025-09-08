@@ -14,37 +14,37 @@
 			}
 		},
 		{
-			"path": "pages/Inventory/index",
+			"path": "pages/inventoryManage/index",
 			"style": {
 				"navigationBarTitleText": "库存管理"
 			}
 		},
 		{
-			"path": "pages/Supplement/index",
+			"path": "pages/inventoryReplenishment/index",
 			"style": {
 				"navigationBarTitleText": "库存补充"
 			}
 		},
 		{
-			"path": "pages/Consume/index",
+			"path": "pages/inventoryDepletion/index",
 			"style": {
 				"navigationBarTitleText": "库存消耗"
 			}
 		},
 		{
-			"path": "pages/DataAnalysis/index",
+			"path": "pages/dataAnalysis/index",
 			"style": {
 				"navigationBarTitleText": "数据分析"
 			}
 		},
 		{
-			"path": "pages/History/index",
+			"path": "pages/operationHistory/index",
 			"style": {
 				"navigationBarTitleText": "历史记录"
 			}
 		},
 		{
-			"path": "pages/Remind/index",
+			"path": "pages/messagePush/index",
 			"style": {
 				"navigationBarTitleText": "补豆提醒"
 			}
